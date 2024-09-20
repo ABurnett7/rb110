@@ -19,8 +19,6 @@
 #   "Marilyn" => { "age" => 23, "gender" => "female", "age_group" => "adult" } }
 
 
-
-
 munsters = {
   "Herman" => { "age" => 32, "gender" => "male" },
   "Lily" => { "age" => 30, "gender" => "female" },
